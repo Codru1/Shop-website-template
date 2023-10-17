@@ -1,2 +1,2 @@
 # Shop-website-template
-still working on it.. it will be done in about 1 week, thanks for understanding!
+ Hello, Hello! A open source *WORKING* shop template using google forms :D
